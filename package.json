@@ -1,10 +1,10 @@
 {
-    "name": "mono",
-    "displayName": "mono",
+    "name": "mono mge version",
+    "displayName": "mono mge version",
     "description": "Monochrome dark and white theme",
     "version": "0.0.1",
-    "publisher": "StepanVanzuriak",
-    "repository": "https://github.com/stepanvanzuriak/mono",
+    "publisher": "Marcellus Easley",
+    "repository": "https://github.com/marcelluseasley/mono-mge-vs-code",
     "engines": {
         "vscode": "^1.43.0"
     },
